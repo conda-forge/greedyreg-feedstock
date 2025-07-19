@@ -21,4 +21,4 @@ libitk_devel:
 target_platform:
 - linux-64
 vtk:
-- 9.3.1
+- 9.4.2
