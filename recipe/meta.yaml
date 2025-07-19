@@ -74,4 +74,5 @@ about:
 extra:
   feedstock-name: {{ name|lower }}
   recipe-maintainers:
+    - sarthakpati
     - Dhananjhay
