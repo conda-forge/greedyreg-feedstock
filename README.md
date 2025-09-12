@@ -178,4 +178,5 @@ Feedstock Maintainers
 =====================
 
 * [@Dhananjhay](https://github.com/Dhananjhay/)
+* [@sarthakpati](https://github.com/sarthakpati/)
 
